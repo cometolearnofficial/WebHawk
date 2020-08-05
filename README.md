@@ -4,29 +4,29 @@ WebHawk is an open source project for website Penetration and Ddos Protect check
 Attack a Specific Website for penetration testing
 dos attack with recon feature
 ## Platforms
-\\
-Kali
-\\
-\\
-Termux
-\\
+
+Kali And Termux
+
+
+
+
 ## Commands
-\\
+```
 pkg install php -y
-\\
-\\
+```
+```
 pkg install python-y
-\\
-\\
+```
+```
 pkg install git -y
-\\
-\\
+```
+```
 git clone https://github.com/c-t-l/WebHawk
-\\
-\\
+```
+```
 cd WebHawk
-\\
+```
 python2 ddos.py
-\\
-\\
+```
+```
 
