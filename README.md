@@ -26,7 +26,11 @@ git clone https://github.com/c-t-l/WebHawk
 ```
 cd WebHawk
 ```
+```
 python2 ddos.py
 ```
 ```
+### Note 
+Do not Use it For Hacking This may lead a better case on you 
+Only For Educational and Penetration Testing Purpose
 
