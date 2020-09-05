@@ -8,7 +8,7 @@ YouTube : https://www.youtube.com/channel/UCtwT7_eBpry-8gqhdlH7UuQ
 
 Insta   : @mastfaizan
 
-Site : https://termuxtools.com/
+Site : https://termuxtools.com/ #Termux-Tools
 
 Facebook: best.faizan
 ## Features
